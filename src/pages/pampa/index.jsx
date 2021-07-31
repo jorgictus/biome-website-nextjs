@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import Link from 'next/link'
-import Head from "next"
+import Head from "next/head"
 const Page = () => {
   return (
     <>
