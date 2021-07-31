@@ -39,7 +39,7 @@ const Page = () => {
             </div>
 
             <motion.h1
-                className="text-4xl md:w-1/2 md:ml-8  h-screen  bg-gray-900 text-red-200 leading-none font-extrabold tracking-tight text-white p-5 md:text-5xl "
+                className="text-4xl md:w-1/2 md:ml-8  h-screen  bg-gray-900  leading-none font-extrabold tracking-tight text-white p-5 md:text-5xl "
                 initial={{ y: "100vw", opacity: 0 }}
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ duration: 1 }}
