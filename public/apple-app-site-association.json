@@ -1,0 +1,25 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "8RJW883LPJ.br.com.eagro.temp.ti",
+                    "8RJW883LPJ.br.com.eagro.temp.tu",
+                    "8RJW883LPJ.br.com.eagro.temp.th",
+                    "75F3F69JF8.br.com.eagro.app",
+                    "8RJW883LPJ.br.com.eagro.app",
+                    "G6T99GP5D7.br.com.eagro.app",
+                    "G6T99GP5D7.br.com.eagro.temp.ti",
+                    "G6T99GP5D7.br.com.eagro.temp.tu",
+                    "G6T99GP5D7.br.com.eagro.temp.th",
+                    "br.com.eagro",
+                    "8RJW883LPJ.br.com.eagro",
+                    "75F3F69JF8.br.com.eagro",
+                    "G6T99GP5D7.br.com.eagro"
+                ],
+                "paths": ["*"]
+            }
+        ]
+    }
+}
